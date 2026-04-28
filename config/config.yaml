@@ -57,9 +57,9 @@ platforms:
   sources:
     - id: "hupu"
       name: "虎扑"
-    - id: "cls-telegraph"
+    - id: "cls-hot"
       name: "财联社 热门"
-    - id: "coolapk"
+    - id: "cls-telegraph"
       name: "财联社 电报"
   
       
